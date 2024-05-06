@@ -1,0 +1,443 @@
+﻿[
+    {
+        "Language Name": "Afrikaans",
+        "Language Code": "af",
+        "Support Voice": "YES",
+        "Language ISO": "af",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "Arabic",
+        "Language Code": "ar",
+        "Support Voice": "YES",
+        "Language ISO": "ar-AE",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "Azerbaijani",
+        "Language Code": "az",
+        "Support Voice": "NOT",
+        "Language ISO": "ERROR",
+        "Language Flag": "AZ"
+    },
+    {
+        "Language Name": "Belarusian",
+        "Language Code": "be",
+        "Support Voice": "NOT",
+        "Language ISO": "be",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "Bulgarian",
+        "Language Code": "bg",
+        "Support Voice": "YES",
+        "Language ISO": "bg",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "Bengali",
+        "Language Code": "bn",
+        "Support Voice": "YES",
+        "Language ISO": "ERROR",
+        "Language Flag": "IN"
+    },
+    {
+        "Language Name": "Catalan",
+        "Language Code": "ca",
+        "Support Voice": "YES",
+        "Language ISO": "ca",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "Czech",
+        "Language Code": "cs",
+        "Support Voice": "YES",
+        "Language ISO": "ERROR",
+        "Language Flag": "CZ"
+    },
+    {
+        "Language Name": "Welsh",
+        "Language Code": "cy",
+        "Support Voice": "NOT",
+        "Language ISO": "cy",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "Danish",
+        "Language Code": "da",
+        "Support Voice": "YES",
+        "Language ISO": "da-DK",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "German",
+        "Language Code": "de",
+        "Support Voice": "YES",
+        "Language ISO": "de",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "Greek",
+        "Language Code": "el",
+        "Support Voice": "YES",
+        "Language ISO": "el",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "English",
+        "Language Code": "en",
+        "Support Voice": "YES",
+        "Language ISO": "en",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "Esperanto",
+        "Language Code": "eo",
+        "Support Voice": "NOT",
+        "Language ISO": "ERROR",
+        "Language Flag": "NOT"
+    },
+    {
+        "Language Name": "Spanish",
+        "Language Code": "es",
+        "Support Voice": "YES",
+        "Language ISO": "es",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "Estonian",
+        "Language Code": "et",
+        "Support Voice": "NOT",
+        "Language ISO": "et",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "Basque",
+        "Language Code": "eu",
+        "Support Voice": "YES",
+        "Language ISO": "ERROR",
+        "Language Flag": "ES"
+    },
+    {
+        "Language Name": "Persian",
+        "Language Code": "fa",
+        "Support Voice": "NOT",
+        "Language ISO": "fa",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "Finnish",
+        "Language Code": "fi",
+        "Support Voice": "YES",
+        "Language ISO": "fi",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "French",
+        "Language Code": "fr",
+        "Support Voice": "YES",
+        "Language ISO": "fr",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "Irish",
+        "Language Code": "ga",
+        "Support Voice": "NOT",
+        "Language ISO": "en-IE",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "Galician",
+        "Language Code": "gl",
+        "Support Voice": "YES",
+        "Language ISO": "gl",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "Gujarati",
+        "Language Code": "gu",
+        "Support Voice": "YES",
+        "Language ISO": "gu",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "Hindi",
+        "Language Code": "hi",
+        "Support Voice": "YES",
+        "Language ISO": "hi",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "Croatian",
+        "Language Code": "hr",
+        "Support Voice": "NOT",
+        "Language ISO": "hr",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "Hungarian",
+        "Language Code": "hu",
+        "Support Voice": "YES",
+        "Language ISO": "hu",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "Indonesian",
+        "Language Code": "id",
+        "Support Voice": "YES",
+        "Language ISO": "id",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "Icelandic",
+        "Language Code": "is",
+        "Support Voice": "YES",
+        "Language ISO": "is",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "Italian",
+        "Language Code": "it",
+        "Support Voice": "YES",
+        "Language ISO": "it",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "Hebrew",
+        "Language Code": "iw",
+        "Support Voice": "NOT",
+        "Language ISO": "he",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "Japanese",
+        "Language Code": "ja",
+        "Support Voice": "YES",
+        "Language ISO": "ERROR",
+        "Language Flag": "JP"
+    },
+    {
+        "Language Name": "Georgian",
+        "Language Code": "ka",
+        "Support Voice": "NOT",
+        "Language ISO": "ERROR",
+        "Language Flag": "GE"
+    },
+    {
+        "Language Name": "Kannada",
+        "Language Code": "kn",
+        "Support Voice": "YES",
+        "Language ISO": "ERROR",
+        "Language Flag": "IN"
+    },
+    {
+        "Language Name": "Korean",
+        "Language Code": "ko",
+        "Support Voice": "YES",
+        "Language ISO": "ERROR",
+        "Language Flag": "KP"
+    },
+    {
+        "Language Name": "Latin",
+        "Language Code": "la",
+        "Support Voice": "NOT",
+        "Language ISO": "ERROR",
+        "Language Flag": "NOT"
+    },
+    {
+        "Language Name": "Lithuanian",
+        "Language Code": "lt",
+        "Support Voice": "YES",
+        "Language ISO": "ERROR",
+        "Language Flag": "LT"
+    },
+    {
+        "Language Name": "Latvian",
+        "Language Code": "lv",
+        "Support Voice": "YES",
+        "Language ISO": "ERROR",
+        "Language Flag": "LV"
+    },
+    {
+        "Language Name": "Macedonian",
+        "Language Code": "mk",
+        "Support Voice": "NOT",
+        "Language ISO": "ERROR",
+        "Language Flag": "MK"
+    },
+    {
+        "Language Name": "Malay",
+        "Language Code": "ms",
+        "Support Voice": "YES",
+        "Language ISO": "ERROR",
+        "Language Flag": "MY"
+    },
+    {
+        "Language Name": "Maltese",
+        "Language Code": "mt",
+        "Support Voice": "NOT",
+        "Language ISO": "ERROR",
+        "Language Flag": "MT"
+    },
+    {
+        "Language Name": "Dutch",
+        "Language Code": "nl",
+        "Support Voice": "YES",
+        "Language ISO": "ERROR",
+        "Language Flag": "NL"
+    },
+    {
+        "Language Name": "Norwegian",
+        "Language Code": "no",
+        "Support Voice": "NOT",
+        "Language ISO": "ERROR",
+        "Language Flag": "NO"
+    },
+    {
+        "Language Name": "Polish",
+        "Language Code": "pl",
+        "Support Voice": "YES",
+        "Language ISO": "ERROR",
+        "Language Flag": "PL"
+    },
+    {
+        "Language Name": "Portuguese",
+        "Language Code": "pt",
+        "Support Voice": "YES",
+        "Language ISO": "ERROR",
+        "Language Flag": "BR"
+    },
+    {
+        "Language Name": "Romanian",
+        "Language Code": "ro",
+        "Support Voice": "YES",
+        "Language ISO": "ERROR",
+        "Language Flag": "RO"
+    },
+    {
+        "Language Name": "Russian",
+        "Language Code": "ru",
+        "Support Voice": "YES",
+        "Language ISO": "ERROR",
+        "Language Flag": "RU"
+    },
+    {
+        "Language Name": "Slovak",
+        "Language Code": "sk",
+        "Support Voice": "YES",
+        "Language ISO": "sk",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "Slovenian",
+        "Language Code": "sl",
+        "Support Voice": "NOT",
+        "Language ISO": "ERROR",
+        "Language Flag": "SI"
+    },
+    {
+        "Language Name": "Albanian",
+        "Language Code": "sq",
+        "Support Voice": "NOT",
+        "Language ISO": "ERROR",
+        "Language Flag": "AL"
+    },
+    {
+        "Language Name": "Serbian",
+        "Language Code": "sr",
+        "Support Voice": "YES",
+        "Language ISO": "ERROR",
+        "Language Flag": "RS"
+    },
+    {
+        "Language Name": "Swedish",
+        "Language Code": "sv",
+        "Support Voice": "YES",
+        "Language ISO": "sv",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "Swahili",
+        "Language Code": "sw",
+        "Support Voice": "NOT",
+        "Language ISO": "ERROR",
+        "Language Flag": "KE"
+    },
+    {
+        "Language Name": "Tamil",
+        "Language Code": "ta",
+        "Support Voice": "YES",
+        "Language ISO": "ERROR",
+        "Language Flag": "LK"
+    },
+    {
+        "Language Name": "Telugu",
+        "Language Code": "te",
+        "Support Voice": "YES",
+        "Language ISO": "ERROR",
+        "Language Flag": "IN"
+    },
+    {
+        "Language Name": "Thai",
+        "Language Code": "th",
+        "Support Voice": "YES",
+        "Language ISO": "ERROR",
+        "Language Flag": "TH"
+    },
+    {
+        "Language Name": "Filipino",
+        "Language Code": "tl",
+        "Support Voice": "NOT",
+        "Language ISO": "ERROR",
+        "Language Flag": "PH"
+    },
+    {
+        "Language Name": "Turkish",
+        "Language Code": "tr",
+        "Support Voice": "YES",
+        "Language ISO": "tr",
+        "Language Flag": "AVAILABLE"
+    },
+    {
+        "Language Name": "Ukrainian",
+        "Language Code": "uk",
+        "Support Voice": "YES",
+        "Language ISO": "ERROR",
+        "Language Flag": "UA"
+    },
+    {
+        "Language Name": "Urdu",
+        "Language Code": "ur",
+        "Support Voice": "NOT",
+        "Language ISO": "ERROR",
+        "Language Flag": "PK"
+    },
+    {
+        "Language Name": "Vietnamese",
+        "Language Code": "vi",
+        "Support Voice": "YES",
+        "Language ISO": "ERROR",
+        "Language Flag": "VN"
+    },
+    {
+        "Language Name": "Yiddish",
+        "Language Code": "yi",
+        "Support Voice": "NOT",
+        "Language ISO": "ERROR",
+        "Language Flag": "NOT"
+    },
+    {
+        "Language Name": "Chinese Simplified",
+        "Language Code": "zh-CN",
+        "Support Voice": "YES",
+        "Language ISO": "ERROR",
+        "Language Flag": "CN"
+    },
+    {
+        "Language Name": "Chinese Traditional",
+        "Language Code": "zh-TW",
+        "Support Voice": "YES",
+        "Language ISO": "ERROR",
+        "Language Flag": "CN"
+    }
+]
